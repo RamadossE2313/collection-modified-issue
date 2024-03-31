@@ -1,0 +1,14 @@
+C:\Users\rishi\source\repos\CollectionIssueFix\bin\Debug\net6.0\CollectionIssueFix.exe
+C:\Users\rishi\source\repos\CollectionIssueFix\bin\Debug\net6.0\CollectionIssueFix.deps.json
+C:\Users\rishi\source\repos\CollectionIssueFix\bin\Debug\net6.0\CollectionIssueFix.runtimeconfig.json
+C:\Users\rishi\source\repos\CollectionIssueFix\bin\Debug\net6.0\CollectionIssueFix.dll
+C:\Users\rishi\source\repos\CollectionIssueFix\bin\Debug\net6.0\CollectionIssueFix.pdb
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.AssemblyInfoInputs.cache
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.AssemblyInfo.cs
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.csproj.CoreCompileInputs.cache
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.dll
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\refint\CollectionIssueFix.dll
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.pdb
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\CollectionIssueFix.genruntimeconfig.cache
+C:\Users\rishi\source\repos\CollectionIssueFix\obj\Debug\net6.0\ref\CollectionIssueFix.dll
